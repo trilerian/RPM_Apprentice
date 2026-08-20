@@ -4,7 +4,7 @@
   "productId": "rpm_apprentice",
   "productName": "RPM Apprentice",
   "hardware": "ESP32-S3 8MB",
-  "latestVersion": "1.027",
+  "latestVersion": "1.028",
   "minimumOtaVersion": "1.026",
   "filename": "RPM-Apprentice-1.027-OTA.bin",
   "size": 867808,
