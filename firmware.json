@@ -9,5 +9,5 @@
   "filename": "RPM-Apprentice-1.028-OTA.bin",
   "size": 868016,
   "sha256": "02d061d8c1b7240535062a5f3938888e33c8c79d2a3b0abcbbe44868e67541c1",
-  "downloadUrl": "https://github.com/trilerian/RPM_Apprentice/releases/download/v1.028/RPM-Apprentice-1.028-OTA.bin"
+  "downloadUrl": "https://raw.githubusercontent.com/trilerian/RPM_Apprentice/main/firmware/RPM-Apprentice-1.028-OTA.bin"
 }
