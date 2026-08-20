@@ -4,10 +4,10 @@
   "productId": "rpm_apprentice",
   "productName": "RPM Apprentice",
   "hardware": "ESP32-S3 8MB",
-  "latestVersion": "1.027",
-  "minimumOtaVersion": "1.026",
-  "filename": "RPM-Apprentice-1.027-OTA.bin",
-  "size": 867808,
-  "sha256": "e6fa0af14dff67d27305d0eb8090565d1d3aad16811c74f66393adaff737c945",
-  "downloadUrl": "https://github.com/trilerian/RPM_Apprentice/releases/download/v1.027/RPM-Apprentice-1.027-OTA.bin"
+  "latestVersion": "1.028",
+  "minimumOtaVersion": "1.027",
+  "filename": "RPM-Apprentice-1.028-OTA.bin",
+  "size": 868016,
+  "sha256": "02d061d8c1b7240535062a5f3938888e33c8c79d2a3b0abcbbe44868e67541c1",
+  "downloadUrl": "https://github.com/trilerian/RPM_Apprentice/releases/download/v1.028/RPM-Apprentice-1.028-OTA.bin"
 }
