@@ -1,3 +1,6 @@
 # RPM Apprentice Firmware
 
 Firmware releases and update tools for the WMH Racing RPM Apprentice.
+
+1.027 - exe, download and install, enables OTA updates through future Android app
+1.028 - First OTA update, must manually update to 1.027 before running OTA update in the Android app
