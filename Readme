@@ -5,3 +5,9 @@ Firmware releases and update tools for the WMH Racing RPM Apprentice.
 1.027 - exe, download and install, enables OTA updates through future Android app
 1.028 - First OTA update, must manually update to 1.027 before running OTA update in the Android app
 1.029 - Fix scrolling on the app and added reset button
+
+
+# Android Beta App
+1.00 - Beta App for Android, what more can I say...  Printing available through 58mm bluetooth receipt printers
+Tested 
+MHT-P11
