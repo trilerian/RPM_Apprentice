@@ -5,7 +5,7 @@ Firmware releases and update tools for the WMH Racing RPM Apprentice.
 1.027 - exe, download and install, enables OTA updates through future Android app
 1.028 - First OTA update, must manually update to 1.027 before running OTA update in the Android app
 1.029 - Fix scrolling on the app and added reset button
-1.030 - Added reset functionality for WiFi ssid and password
+1.032 - Added reset functionality for WiFi ssid and password
 
 
 # Android Beta App
