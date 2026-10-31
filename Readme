@@ -1,5 +1,13 @@
 # RPM Apprentice Firmware
 
+
+Download the WMH-RPM-Apprentice-Bootstrap-1.055.zip file and extract the contents.
+Remove top half of RPM Apprentice, with the USB connected, press the boot button and hold, 
+then press and release the reset button, then release the boot button.
+Run the exe in the folder you extracted, click through the warnings...
+Let the program finish updating the RPM Apprentice, once finished unplug the USB put the top half of the case back on and turn it on.
+You will have a touch calibration screen, then it will run normally.  Further updates can be done through the Wizard Portal app. 
+
 Firmware releases and update tools for the WMH Racing RPM Apprentice.
 
 1.027 - exe, download and install, enables OTA updates through future Android app
