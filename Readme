@@ -9,7 +9,7 @@ Let the program finish updating the RPM Apprentice, once finished unplug the USB
 You will have a touch calibration screen, then it will run normally.  Further updates can be done through the Wizard Portal app. 
 
 Firmware releases and update tools for the WMH Racing RPM Apprentice.
-
+1.055 - Current release, adds rotor assymetry and sensor deviations
 1.027 - exe, download and install, enables OTA updates through future Android app
 1.028 - First OTA update, must manually update to 1.027 before running OTA update in the Android app
 1.029 - Fix scrolling on the app and added reset button
